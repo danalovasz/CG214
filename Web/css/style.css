@@ -4,12 +4,13 @@
 body{
     background-color: #fcffed;
     color: #474041;
-    font-family: "Rubik", initial;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
 h1{
     background-color: #f8e0ff;
     width:100%;
-    padding: 20px;
+    padding: 16px;
 }
 
 p{
