@@ -1,0 +1,148 @@
+
+.colortext {
+    color: skyblue;
+}
+.colortext1 { color: white; 
+}
+.colortext2 { color: skyblue;
+}
+ }
+#top-bar{
+    display: inline-block;
+    width: 100;
+
+}
+#search{ border: 2px solid black;
+         color: black;
+         font-size: 12px ;
+         border-style: groove;
+         padding-left: 40px;
+         padding-right: 3px;
+         padding-top: 3px;
+         padding-bottom: 3px;
+         width: 7%;
+         margin-left: 500px;
+         line-height: 20px;
+         white-space: nowrap;
+
+}
+
+#icon {
+    float: left;
+    display: inline;
+    clear: left;
+    margin-right: 100px;
+}
+#instagramlogo {
+    float: left;
+}
+
+#app {
+    float: right;
+    margin: 10px;
+    margin-top: 34px;
+    border-radius: 7px;
+    white-space: nowrap;
+    padding: 3px 3pxl;
+    color: white;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+}
+#line {
+    float: right;
+    margin: 1px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+#login {
+    margin: 10px;
+    float: right;
+    line-height: 70px;
+    white-space: nowrap;
+}
+
+#sign-up{
+    float: right;
+    margin: 10px;
+    line-height: 70px;
+    white-space: nowrap;
+}
+
+div {
+    background-color: white;
+}
+
+P {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+table, th, td {
+   border: 2px solid white;
+}
+
+}
+table, th, tr, td{
+    border: 5px white;
+    margin: 10px;
+    padding: 7px;
+}
+
+
+
+}  
+#Icon{
+    float: left;
+    display: inline;
+    clear: left;
+    margin-right: 100px;
+}
+
+#loadmore {
+    background-color: white;
+    padding: 10px;color: skyblue;
+    font-size: 12px ;
+    border-style: groove;
+    padding-left: 20px;
+    padding-right: 70px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 1%;
+    margin-left: 420px;
+    line-height: 20px;
+    white-space: nowrap;
+    border-radius: 20%
+    
+    
+} 
+#follow {
+    border-style: solid;
+    border-width: thin;
+    margin-left: 6px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    width: 6%;
+    display: inline;
+     border-radius: 7px;
+}
+
+#username {
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+    display: inline;
+}
+#heading{
+    float: left;
+    display: inline;
+    margin-left: 5px;
+}
+.bio {
+    text-align: left;
+    margin: 0px;
+    margin-top: 15px;
+    padding-top: 15px;
+    
+}
